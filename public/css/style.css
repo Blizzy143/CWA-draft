@@ -1,0 +1,27 @@
+.my-banner {
+    width: 100;
+    font-size: 200%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(77, 231, 16);
+}
+
+input {
+    display: block;
+    margin: 8px 0;
+    padding: 8px 2px;
+    border-width: 0 0 2px ;
+    width: 100%;
+}
+
+li.nav-item {
+    padding-right: 20px;
+}
+
+.modal-preauth {
+    display: block;
+}
+
+.modal-postauth {
+    display: none;
+}
