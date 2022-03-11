@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "krishl3web3",
     "public": "public",
     "ignore": [
       "firebase.json",
