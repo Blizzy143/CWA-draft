@@ -26,7 +26,7 @@ export class AccountInfo {
             //hello1234
             name: '', address: '', city: '',
             state: '', zip: '', creditNo: '',
-            photoURL: 'images/Profile.jpg',
+            photoURL: 'images/default_icon.png',
         });
     }
 }
